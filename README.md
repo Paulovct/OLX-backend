@@ -1,8 +1,8 @@
-## OLX (clone/frontend)
+## OLX (clone/backend)
 
 
 Backend do Projeto OLX
-Partica com Nodejs e Express , planejamento  e criação de uma api que interage com um banco de dados de uma loja online ficticia.
+Partica com Nodejs e Express , planejamento  e criação de uma api que interage com um banco de dados MongoDB de uma loja online ficticia.
 
 
 
